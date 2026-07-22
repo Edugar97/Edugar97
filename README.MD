@@ -88,14 +88,8 @@ A seven-notebook analytics pipeline taking raw retail data from exploration thro
 A model that predicts how many weekly units the company needs depending on its production stage.  
 `Python` · `Machine Learning`
 
----
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Edugar97&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edugar97&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
 
 ---
 
