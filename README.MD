@@ -28,7 +28,7 @@ I'm currently building a portfolio one project at a time, focusing on **end-to-e
 
 ---
 
-## 🎓 Education
+##  Education
 
 **Licentiate in Administrative Information Systems**  
 *Universidad Católica de El Salvador (UNICAES)* — Santa Ana, El Salvador · 2023
