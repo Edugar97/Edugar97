@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Raúl García 👋</h1>
+<h1 align="center">Hi, I'm Raúl García</h1>
 
 <p align="center">
   <b>Information Systems Graduate › Data Analyst</b><br>
