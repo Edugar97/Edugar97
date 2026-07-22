@@ -16,15 +16,15 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 I hold a **Licentiate degree in Administrative Information Systems** and am transitioning into **Data Analytics & Data Science**, driven by a simple idea: data is only valuable when it leads to a better decision. My background in information systems gives me a structured, problem-solving mindset that I now apply to the full analytics workflow — from cleaning messy datasets to building predictive models and communicating results through clear dashboards.
 
 I'm currently building a portfolio one project at a time, focusing on **end-to-end** work: not just training a model, but framing the business question, engineering the data, evaluating rigorously, and presenting insights stakeholders can act on.
 
-- 🔭 Focused on **retail analytics, demand forecasting, and business intelligence**
-- 🌱 Always learning — currently pursuing the **IBM AI Engineering** professional certificate
-- 💬 Ask me about **Python, forecasting (LightGBM · Prophet · SARIMA), or Power BI**
+-  Focused on **retail analytics, demand forecasting, and business intelligence**
+-  Always learning — currently pursuing the **IBM AI Engineering** professional certificate
+-  Ask me about **Python, forecasting (LightGBM · Prophet · SARIMA), or Power BI**
 
 ---
 
@@ -35,7 +35,7 @@ I'm currently building a portfolio one project at a time, focusing on **end-to-e
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 | Certificate | Issued By | Date | Verify |
 |---|---|---|---|
@@ -47,7 +47,7 @@ I'm currently building a portfolio one project at a time, focusing on **end-to-e
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages & Analysis**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -74,17 +74,17 @@ I'm currently building a portfolio one project at a time, focusing on **end-to-e
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
-### 🛒 [Retail Demand Forecasting](https://github.com/Edugar97/Retail-demand-forecasting)
+###  [Retail Demand Forecasting](https://github.com/Edugar97/Retail-demand-forecasting)
 End-to-end demand forecasting on the Corporación Favorita grocery dataset. Compares **LightGBM vs. Prophet vs. a seasonal baseline**, engineers lag and rolling features, and delivers an interactive **Power BI dashboard** with accuracy tracking by product family.  
 `Python` · `LightGBM` · `Prophet` · `Power BI`
 
-### 📊 [Sample Superstore Analysis](https://github.com/Edugar97/Sample-superstore)
+###  [Sample Superstore Analysis](https://github.com/Edugar97/Sample-superstore)
 A seven-notebook analytics pipeline taking raw retail data from exploration through cleaning, pivots, and visualization — ending in **time-series forecasting with SARIMA and Prophet**. Surfaces business insights like loss-making sub-categories hidden behind strong sales.  
 `Python` · `pandas` · `SARIMA` · `Prophet` · `Seaborn`
 
-### 🏭 [Production Planning – HANA Migration](https://github.com/Edugar97/Production-planning-hana-migration)
+###  [Production Planning – HANA Migration](https://github.com/Edugar97/Production-planning-hana-migration)
 A model that predicts how many weekly units the company needs depending on its production stage.  
 `Python` · `Machine Learning`
 
@@ -93,4 +93,4 @@ A model that predicts how many weekly units the company needs depending on its p
 
 ---
 
-<p align="center"><i>Building a portfolio one project at a time. 🚀</i></p>
+<p align="center"><i>Building a portfolio one project at a time. </i></p>
